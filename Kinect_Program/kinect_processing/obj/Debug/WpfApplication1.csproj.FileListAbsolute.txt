@@ -1,0 +1,66 @@
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\serial_port_selection.g.cs
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\serial_port_selection.baml
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Bassam\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\serial_port_selection.g.cs
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\serial_port_selection.baml
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\WpfApplication2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

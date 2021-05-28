@@ -1,0 +1,3 @@
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\Kinect_Program\kinect_processing\bin\Debug\WpfApplication1.exe.config
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\Kinect_Program\kinect_processing\obj\Debug\WpfApplication1.exe
+C:\Users\Bassam\Documents\ANNU\GraduationProject2\submission\Kinect_Program\kinect_processing\obj\Debug\WpfApplication1.pdb
